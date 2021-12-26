@@ -1,0 +1,7 @@
+<?pre
+
+print "this is manoj";
+
+print `ifconfig`
+
+pre >
